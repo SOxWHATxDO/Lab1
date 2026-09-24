@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Запас расходников</string>
+    <string name="first_label">Запас материала, S</string>
+    <string name="second_label">Суточный расход, D</string>
+    <string name="first_hint">Например, 25</string>
+    <string name="second_hint">Например, 6</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="clear">Очистить</string>
+    <string name="result_initial">Результат появится здесь</string>
+    <string name="result_days_remainder">Полных дней: %1$d дн., остаток: %2$d ед.</string>
+</resources>
